@@ -11,41 +11,68 @@
 
 ## Data Exploration
 1. Variable Identification
+
 2. Univariate analysis
+
     a. **Categorical**:  
-       i) We use **frequency table** to understand distribution of each category.  
-       ii) It can be measured using two metrics **count & count %**. For visualization: Bar Chart  
+       * We use **frequency table** to understand distribution of each category.  
+       * It can be measured using two metrics **count & count %**. For visualization: Bar Chart  
+       
     b. **Continuous**:  
-       i) **Central tendency** (Mean, Median, Mode) and **spread** of the variable( range, Quartile, IQR, Variance, SD, Skewness, kurtosis)  
-       ii) For visualization: Histogram, Box plot  
-3. Bi-Variate Analysis ( Relationship between 2 variables)  
+       * **Central tendency** (Mean, Median, Mode) and **spread** of the variable( range, Quartile, IQR, Variance, SD, Skewness, kurtosis)  
+       * For visualization: Histogram, Box plot  
+       
+3. Bi-Variate Analysis ( Relationship between 2 variables)
+
     a. **Continuous + Continuous**:  
-       i) **Scatter plot**: Shows relationship b/w the variables  
-       ii) Correlation: To find the strength of relationship ( +1 perfect positive linear correlation, -1 perfect negative linear     correlation, 0 No correlation)  
+       * **Scatter plot**: Shows relationship b/w the variables  
+       * **Correlation:** To find the strength of relationship ( +1 perfect positive linear correlation, -1 perfect negative linear     correlation, 0 No correlation)  
+       
     b. **Categorical + Categorical**:   
-       1. i) **Two way table**. We can start analyzing relationship by creating a two table of count and count%  
-          ii) For visualization: stacked column chart  
-       2. **Chi-square test**: Used to derive statistical significance of relationship between variables  
-       3. **Cramers V for nominal categorical variable**  
+       * **Two way table**. We can start analyzing relationship by creating a two table of count and count%. For visualization: stacked column chart  
+       * **Chi-square test**: Used to derive statistical significance of relationship between variables  
+       * **Cramers V for nominal categorical variable** 
+       
     c. **Continuous + Categorical**:  
-       i) Z-test/ t-test  
+       * Z-test/ t-test  
  
 ## Preprocessing
 1. [Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)  
 2. [Feature Engineering](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)  
 3. [Feature Engineering made easy book](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)  
+4. [Feature selection](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch04_Feature_Engineering_and_Selection/Feature%20Selection.ipynb)
+5. [Dimensionality reduction](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 
 ## Math Basics
 1. [Math & stats](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch01_Machine_Learning_Basics/NLP%2C%20Math%20%26%20Stats%20Examples.ipynb)  
-2. [Pandas](https://github.com/ritchieng/pandas-guides)
-## [Feature selection](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch04_Feature_Engineering_and_Selection/Feature%20Selection.ipynb)  
-## [Real world case studies](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks#part-iii-real-world-case-studies)
+2. [Numpy](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
+3. [Pandas](https://github.com/ritchieng/pandas-guides)
+4. [Matplotlib](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+5. [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-## [Approaching any ML problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
-## [Evaluation metrics for classsification](https://towardsdatascience.com/evaluation-metrics-for-classification-409568938a7d)
-## [Support Vector Machines](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)  
-## [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)  
-## [Intro to Clustering and clustering methods](https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/)  
-## [Loss functions](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c)  
-## [Decision trees](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)  
-## []()
+## Models
+#### Supervised
+1. Linear Regression
+2. Logistic Regression
+3. [Random forest]()
+4. [Decision tree](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)  
+5. [Gradient boosting machine](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+6. [Support vector machine](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+7. [Lasso and ridge regression](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
+
+[Types of regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
+
+[Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
+
+## Unsupervised
+[Intro to Clustering and clustering methods](https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/)  
+
+## Metrics
+1. [Error Metrics](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
+2. [Evaluation metrics for classsification](https://towardsdatascience.com/evaluation-metrics-for-classification-409568938a7d)
+
+[Loss functions](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c) 
+
+[Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
+
+[Approaching any ML problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
