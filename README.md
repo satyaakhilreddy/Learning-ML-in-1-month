@@ -1,4 +1,14 @@
 # Machine learning study flow
+
+## ML Pipeline
+1. Data collection (Kafka, spark)
+2. Exploratory Data analysis (analyze the input)
+3. Feature Engineering (New features/ Derived input)
+4. Feature reduction ( Reducing unwanted features)
+5. Model building (  F( input ) = Y)
+6. Model evaluation ( F(test) = Y* )
+7. Metrics to test
+
 ## Preprocessing
 1. [Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)  
 2. [Feature Engineering](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)  
