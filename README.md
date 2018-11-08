@@ -12,23 +12,23 @@
 ## Data Exploration
 1. Variable Identification
 2. Univariate analysis
-    a. **Categorical**: 
+    a. **Categorical**:  
        i) We use **frequency table** to understand distribution of each category.  
-       ii) It can be measured using two metrics **count & count %**. For visualization: Bar Chart
-    b. **Continuous**:
-       i) **Central tendency** (Mean, Median, Mode) and **spread** of the variable( range, Quartile, IQR, Variance, SD, Skewness, kurtosis)
-       ii) For visualization: Histogram, Box plot
-3. Bi-Variate Analysis ( Relationship between 2 variables)
-    a. **Continuous + Continuous**:
-       i) **Scatter plot**: Shows relationship b/w the variables
-       ii) Correlation: To find the strength of relationship ( +1 perfect positive linear correlation, -1 perfect negative linear     correlation, 0 No correlation)
-    b. **Categorical + Categorical**: 
-       1. i) **Two way table**. We can start analyzing relationship by creating a two table of count and count%
-          ii) For visualization: stacked column chart
-       2. **Chi-square test**: Used to derive statistical significance of relationship between variables
-       3. **Cramers V for nominal categorical variable**
-    c. **Continuous + Categorical**:
-       i) Z-test/ t-test
+       ii) It can be measured using two metrics **count & count %**. For visualization: Bar Chart  
+    b. **Continuous**:  
+       i) **Central tendency** (Mean, Median, Mode) and **spread** of the variable( range, Quartile, IQR, Variance, SD, Skewness, kurtosis)  
+       ii) For visualization: Histogram, Box plot  
+3. Bi-Variate Analysis ( Relationship between 2 variables)  
+    a. **Continuous + Continuous**:  
+       i) **Scatter plot**: Shows relationship b/w the variables  
+       ii) Correlation: To find the strength of relationship ( +1 perfect positive linear correlation, -1 perfect negative linear     correlation, 0 No correlation)  
+    b. **Categorical + Categorical**:   
+       1. i) **Two way table**. We can start analyzing relationship by creating a two table of count and count%  
+          ii) For visualization: stacked column chart  
+       2. **Chi-square test**: Used to derive statistical significance of relationship between variables  
+       3. **Cramers V for nominal categorical variable**  
+    c. **Continuous + Categorical**:  
+       i) Z-test/ t-test  
  
 ## Preprocessing
 1. [Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)  
