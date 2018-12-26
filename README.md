@@ -52,8 +52,10 @@
 
 ## Models
 #### Supervised
-1. Linear Regression
-2. Logistic Regression
+1. [Linear Regression Overview](https://machinelearningmastery.com/linear-regression-for-machine-learning/)  
+   * [Simple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+2. [Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)  
+* [Building logistic regression in Python](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 3. [Random forest]()
 4. [Decision tree](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)  
 5. [Gradient boosting machine](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
