@@ -1,5 +1,5 @@
 # Machine learning study flow
-
+[Machine Learning Coursera notes](http://www.holehouse.org/mlclass/index.html)  
 ## ML Pipeline
 1. Data collection (Kafka, spark)
 2. Exploratory Data analysis (analyze the input)
@@ -63,7 +63,7 @@
 7. [Lasso and ridge regression](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
 
 [Types of regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
-
+[Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
 
 ## Unsupervised
