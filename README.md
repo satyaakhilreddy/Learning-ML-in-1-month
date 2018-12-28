@@ -1,5 +1,5 @@
 # Machine learning study flow
-[Machine Learning By Standford University](https://www.coursera.org/learn/machine-learning/home/welcome)
+[Machine Learning course By Standford University](https://www.coursera.org/learn/machine-learning/home/welcome)  
 [Machine Learning Coursera notes](http://www.holehouse.org/mlclass/index.html) 
 
 ## ML Pipeline
@@ -27,7 +27,7 @@
 5. [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
-#### Supervised Learning
+## Supervised Learning
 [Types of regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
 1. [Linear Regression Overview](https://machinelearningmastery.com/linear-regression-for-machine-learning/)  
     * [Evaluation metrics for regression](https://www.analyticsvidhya.com/blog/2015/10/regression-python-beginners/)
