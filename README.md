@@ -29,7 +29,8 @@
 
 ## Supervised Learning
 [Types of regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
-1. [Linear Regression Overview](https://machinelearningmastery.com/linear-regression-for-machine-learning/)  
+1. [Linear Regression Overview](https://machinelearningmastery.com/linear-regression-for-machine-learning/) 
+    * [Gradient descent explained with an example](https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1)
     * [Evaluation metrics for regression](https://www.analyticsvidhya.com/blog/2015/10/regression-python-beginners/)
     * [Assumptions of Linear Regression](https://www.statisticssolutions.com/assumptions-of-linear-regression/)
     * [Simple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) 
@@ -57,7 +58,7 @@ An ensemble technique in which the predictors are not made independently, but se
 
 
 
-[Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+[Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)  
 [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
 
 ## Unsupervised
