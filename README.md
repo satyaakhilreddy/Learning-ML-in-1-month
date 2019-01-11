@@ -41,7 +41,8 @@
     * [Loss functions implementation in Python](https://nbviewer.jupyter.org/github/groverpr/Machine-Learning/blob/master/notebooks/05_Loss_Functions.ipynb)
 4. [Regularization](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)    
      * [Lasso and ridge regression](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
-5. [Tree based Modeling](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)  
+5. [Tree based Modeling](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/) 
+     * [How does regression tree split](https://stats.stackexchange.com/questions/220350/regression-trees-how-are-splits-decided)
 6. [Support vector machine](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
 
 #### Ensembling Techniques
@@ -54,10 +55,12 @@ An ensemble technique in which the predictors are not made independently, but se
     * [Gradient boosting](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
          * Widely used GBM algorithms: 1. XGBoost  2. LightGBM  3. CATBoost
     * [Gradient Boosting from scratch in python](https://www.kaggle.com/grroverpr/gradient-boosting-simplified/)
+    * [Math behind XGBoost](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/) 
+    * [Early stopping to avoid overfitting](https://machinelearningmastery.com/avoid-overfitting-by-early-stopping-with-xgboost-in-python/)
     * [Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 
 
-
+[Difference between parameter and hyperparameter](https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/)  
 [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)  
 [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
 
