@@ -1,4 +1,5 @@
 # Machine learning study flow
+
 [Machine Learning course By Standford University](https://www.coursera.org/learn/machine-learning/home/welcome)  
 [Machine Learning Coursera notes](http://www.holehouse.org/mlclass/index.html) 
 
@@ -11,7 +12,15 @@
 6. Model evaluation ( F(test) = Y* )
 7. Metrics to test
 
+# Week 1
+## Math Basics
+1. [Math & stats](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch01_Machine_Learning_Basics/NLP%2C%20Math%20%26%20Stats%20Examples.ipynb)  
+2. [Numpy](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
+3. [Pandas](https://github.com/ritchieng/pandas-guides)
+4. [Matplotlib](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+5. [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
  
+# Week 2 
 ## Preprocessing
 1. [Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)  
 2. [Feature Engineering](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)  
@@ -19,14 +28,8 @@
 4. [Feature selection](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch04_Feature_Engineering_and_Selection/Feature%20Selection.ipynb)
 5. [Dimensionality reduction](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 
-## Math Basics
-1. [Math & stats](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch01_Machine_Learning_Basics/NLP%2C%20Math%20%26%20Stats%20Examples.ipynb)  
-2. [Numpy](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
-3. [Pandas](https://github.com/ritchieng/pandas-guides)
-4. [Matplotlib](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
-5. [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-
+# Week 3
 ## Supervised Learning
 [Types of regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)  
 1. [Linear Regression Overview](https://machinelearningmastery.com/linear-regression-for-machine-learning/) 
@@ -45,6 +48,7 @@
      * [How does regression tree split](https://stats.stackexchange.com/questions/220350/regression-trees-how-are-splits-decided)
 6. [Support vector machine](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
 
+# Week 4
 #### Ensembling Techniques
 1. Bagging:  
 We build many independent predictors/models/learners and combine them using some model averaging techniques. (e.g. weighted average, majority vote or normal average)
@@ -73,8 +77,10 @@ An ensemble technique in which the predictors are not made independently, but se
 
 [Loss functions](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c) 
 
-[Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
+[Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-
+start-6f696683d0ed)
 
+# Final steps
 [Approaching any ML problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
 
 #
