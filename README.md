@@ -78,36 +78,11 @@ An ensemble technique in which the predictors are not made independently, but se
 
 [Loss functions](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c) 
 
-[Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-
-start-6f696683d0ed)
+
 
 # Final steps
 [Approaching any ML problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
+ 
+# RecSys
 
-#
-## Data Exploration
-1. Variable Identification
-
-2. Univariate analysis
-
-    a. **Categorical**:  
-       * We use **frequency table** to understand distribution of each category.  
-       * It can be measured using two metrics **count & count %**. For visualization: Bar Chart  
-       
-    b. **Continuous**:  
-       * **Central tendency** (Mean, Median, Mode) and **spread** of the variable( range, Quartile, IQR, Variance, SD, Skewness, kurtosis)  
-       * For visualization: Histogram, Box plot  
-       
-3. Bi-Variate Analysis ( Relationship between 2 variables)
-
-    a. **Continuous + Continuous**:  
-       * **Scatter plot**: Shows relationship b/w the variables  
-       * **Correlation:** To find the strength of relationship ( +1 perfect positive linear correlation, -1 perfect negative linear     correlation, 0 No correlation)  
-       
-    b. **Categorical + Categorical**:   
-       * **Two way table**. We can start analyzing relationship by creating a two table of count and count%. For visualization: stacked column chart  
-       * **Chi-square test**: Used to derive statistical significance of relationship between variables  
-       * **Cramers V for nominal categorical variable** 
-       
-    c. **Continuous + Categorical**:  
-       * Z-test/ t-test  
+[Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
