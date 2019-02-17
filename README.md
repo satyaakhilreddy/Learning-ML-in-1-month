@@ -79,10 +79,26 @@ An ensemble technique in which the predictors are not made independently, but se
 [Loss functions](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c) 
 
 
-
 # Final steps
 [Approaching any ML problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
- 
-# RecSys
 
-[Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
+# Ranking problem
+## 1. RecSys
+
+1. [Recommender systems blog](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)  
+2. RecSys, part of Stanford CS246 Mining Massive Datasets : 
+   * [1. Overview of Recommender Systems video](https://www.youtube.com/watch?v=hOQg2LQM4ec) 
+   * [2. Content based Recommendations ](https://www.youtube.com/watch?v=IlqnNWuqToo)
+   * [3. Collaborative Filtering ](https://www.youtube.com/watch?v=3Sl_nFQbLQA)
+   * [4. Implementing Collaborative Filtering](https://www.youtube.com/watch?v=Tsmom3S7zeE)
+   * [5. Evaluating Recommender systems](https://www.youtube.com/watch?v=Tsmom3S7zeE) 
+   * [6. RecSys chapter from the book based on CS246](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+3. [Netflix RecSys Lecture part 1&2](https://www.youtube.com/watch?v=bLhq63ygoU8)
+4. [Netflix RecSys Lecture part 3&4](https://www.youtube.com/watch?time_continue=2&v=mRToFXlNBpQ)
+5. [Slides of the above lecture](https://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu?ref=http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html)  
+6. [Dimensionality reduction chap from Stanford CS246](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
+
+
+## 2. Search
+1. [End to End Search slides](http://www.mices.co/mices2018/slides/Duncan-Blythe_Zalando-Deep_Learning.pdf)
+2. [Query understanding in Amazon Search](https://www.slideshare.net/SessionsEvents/tanvi-motwani-lead-data-scientist-guided-search-at-a9com-at-mlconf-atl-2016)
