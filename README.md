@@ -99,6 +99,10 @@ Prerequisite: [Singular valued decomposition](https://fenix.tecnico.ulisboa.pt/d
 4. [Netflix RecSys Lecture part 3&4](https://www.youtube.com/watch?time_continue=2&v=mRToFXlNBpQ)
 5. [Slides of the above lecture](https://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu?ref=http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html)  
 6. [Dimensionality reduction chap from the book based on CS246](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
+7. Metrics for RecSys
+  * [NDCG@10](https://www.ebayinc.com/stories/blogs/tech/measuring-search-relevance/)  
+  * [Mean Average Precision](https://medium.com/@dtunkelang/evaluating-good-search-part-i-measure-it-5507b2dbf4f6)
+  
 
 
 ## 2. Search
