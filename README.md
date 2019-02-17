@@ -84,7 +84,7 @@ An ensemble technique in which the predictors are not made independently, but se
 
 # Ranking problem
 ## 1. RecSys
-
+Prerequisite: [Singular valued decomposition](https://fenix.tecnico.ulisboa.pt/downloadFile/3779576344458/singular-value-decomposition-fast-track-tutorial.pdf)  
 1. [Recommender systems blog](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)  
 2. RecSys, part of Stanford CS246 Mining Massive Datasets : 
    * [1. Overview of Recommender Systems video](https://www.youtube.com/watch?v=hOQg2LQM4ec) 
@@ -92,11 +92,13 @@ An ensemble technique in which the predictors are not made independently, but se
    * [3. Collaborative Filtering ](https://www.youtube.com/watch?v=3Sl_nFQbLQA)
    * [4. Implementing Collaborative Filtering](https://www.youtube.com/watch?v=Tsmom3S7zeE)
    * [5. Evaluating Recommender systems](https://www.youtube.com/watch?v=Tsmom3S7zeE) 
-   * [6. RecSys chapter from the book based on CS246](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+   * [6. Slides of the above lecture videos part1](http://www.mmds.org/mmds/v2.1/ch09-recsys1.pdf)
+   * [7. Sildes of the above lecture videos part2](http://www.mmds.org/mmds/v2.1/ch09-recsys2.pdf)
+   * [8. RecSys chapter from the book based on CS246](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 3. [Netflix RecSys Lecture part 1&2](https://www.youtube.com/watch?v=bLhq63ygoU8)
 4. [Netflix RecSys Lecture part 3&4](https://www.youtube.com/watch?time_continue=2&v=mRToFXlNBpQ)
 5. [Slides of the above lecture](https://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu?ref=http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html)  
-6. [Dimensionality reduction chap from Stanford CS246](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
+6. [Dimensionality reduction chap from the book based on CS246](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf)
 
 
 ## 2. Search
